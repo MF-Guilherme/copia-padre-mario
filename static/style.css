@@ -4,8 +4,8 @@ html, body{
 }
 
 #nav-text {
-    color: aliceblue;
-    font-weight: 50;
+    color: #5f5151;
+    font-weight: 600;
     font-size: 14px;
 }
 
@@ -15,14 +15,15 @@ html, body{
     font-size: 14px;
 }
 
+
 .nav-item{
     padding-left: 15px;
 }
 
 .btn{
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 900;
-    padding: 12px 4px 12px 4px;
+    padding: 10px 4px 10px 4px;
     border-radius: 13px;
 }
 
@@ -35,6 +36,7 @@ html, body{
     color: black;
     background-image: linear-gradient(rgb(184, 169, 26), rgb(250, 250, 185));
     border-style: none;
+    margin-left: 10px;
 }
 
 .navbar{
@@ -43,6 +45,8 @@ html, body{
 }
 
 .container-fluid{
-    margin-left: 270px;
-    margin-right: 270px;
+    margin-left: 170px;
+    margin-right: 170px;
 }
+
+
