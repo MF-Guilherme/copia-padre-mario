@@ -32,6 +32,14 @@ html, body{
     border-style: none;
 }
 
+.verde-g{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1dd800;
+    border-style: none;
+    padding: 10px;
+}
+
 .amarelo{
     color: black;
     background-image: linear-gradient(rgb(184, 169, 26), rgb(250, 250, 185));
@@ -48,5 +56,28 @@ html, body{
     margin-left: 170px;
     margin-right: 170px;
 }
+
+section#inicio{
+    background-image: url("./images/padre-2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: inherit;
+    background-position: center;
+
+    width: 100%;
+    height: 65vh;
+}
+
+h1.branco{
+    color: aliceblue;
+
+}
+
+h1.texto-verde{
+    color: #7efe2e ;
+
+}
+
+
 
 
